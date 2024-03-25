@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+:root {
+    --font-family: "Baskerville", sans-serif;
+    --second-family: "Avenir", sans-serif;
+    --third-family: "Parisienne", sans-serif;
+}
+
+.head-p{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 31px;
+    letter-spacing: 0.05em;
+    color: #464646;
+}
+.head-num{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 31px;
+    letter-spacing: -0.02em;
+    color: #464646;
+}
+.p-navig{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.06em;
+    color: #0d0a09;
+}
+.p-navig:hover{
+    color: #D59D40;
+}
+.h1-pop{
+    font-family: var(--third-family);
+    font-weight: 400px;
+    font-size: 170px;
+    letter-spacing: -0.05em;
+    color: #464646;
+}
+.p-pop{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 127%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #464646;
+}
+.p-bold{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 127%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #464646;
+}
+.cardf{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 31px;
+    letter-spacing: -0.08em;
+    color: #464646;
+}
+.cardin{
+    font-family: var(--font-family);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 114%;
+    letter-spacing: 0.04em;
+    color: #000;
+}
+.pcard{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 114%;
+    color: #000;
+}
+.pleft{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 21px;
+    letter-spacing: 0.01em;
+    color: #d59d40;
+    border-left: 3px solid #D59D40;
+    padding: 5px 15px;
+}
+.txt{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.06em;
+    color: #d59d40;
+}
+.links{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    color: #000;
+}
+.links:hover{
+    color: #d59d40;
+}
+.btn{
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 35px;
+    letter-spacing: -0.06em;
+    text-align: center;
+    color: #fff;
+    padding: 6px 40px;
+    background-color: #D59D40;
+    font-style: italic;
+}
+.btns{
+    border: none;
+    box-shadow: -10px 0 16px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 100px;
+}
+.p-foot{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 37px;
+    letter-spacing: 0.01em;
+    color: #d59d40;
+}
+.link_foot{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 21px;
+    letter-spacing: 0.01em;
+    color: #d59d40;
+    width: 340px;
+}
+.btns:hover{
+    opacity: 70%;
+}
+.p_under{
+    font-family: var(--second-family);
+    font-weight: 500;
+    font-size: 21px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #bebebe;
+}
